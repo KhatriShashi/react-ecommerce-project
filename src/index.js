@@ -5,4 +5,6 @@ import Blog from "./Blog";
 import About from "./pages/About";
 import Contact from './pages/Contact'
 import ErrorPage from "./ErrorPage";
-export { Home, Shop, Products, Blog, About, Contact, ErrorPage};
+import Header from "./components/Header";
+import Cart from "./Cart";
+export { Home, Shop, Products, Blog, About, Contact, ErrorPage, Header, Cart};
